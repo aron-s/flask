@@ -10,3 +10,5 @@ pytest  --pylint --cov
 setup.py is a config file for pytest
 
 MY testfd
+
+Link to testing site in heroku: https://as4259-testing.herokuapp.com/
